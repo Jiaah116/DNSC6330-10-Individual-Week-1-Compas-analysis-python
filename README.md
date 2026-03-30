@@ -2,6 +2,7 @@
 # COMPAS Analysis (Python Reproduction)
 
 ## Overview
+This project was completed as part of a course assignment focused on understanding fairness and model evaluation in real-world systems.
 This project reproduces the COMPAS recidivism risk score analysis originally implemented in R, using Python. The goal is to replicate the full analytical workflow, including data preprocessing, exploratory data analysis (EDA), model development, and evaluation, while examining fairness-related outcomes.
 
 ## Purpose of the Analysis
